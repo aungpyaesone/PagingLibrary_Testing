@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagingLibrary</string>
+    <string name="error_tap_to_retry">ERROR !! Tap to retry.</string>
+</resources>
